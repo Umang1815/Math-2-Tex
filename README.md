@@ -21,4 +21,7 @@ pip install -r requirements.txt
 ```
 - Download the model weights and place them into "model_data" folder. You can get the model weights [here](https://drive.google.com/drive/folders/1t7p0JlcxDTcNWR1Gu4SZnOo9RNmXEEBI?usp=sharing).
 
-- Open app.py and run the Python Script
+- Now, run app.py file to open the website
+```
+flask run
+```
