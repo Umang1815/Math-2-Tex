@@ -6,7 +6,7 @@ Steps to run this on your local computer:
 
 - Clone this repository
 ```
-!git clone https://github.com/Umang1815/Math-2-Tex
+git clone https://github.com/Umang1815/Math-2-Tex
 ```
 
 - Make a new virtual environment in python in the folder in which this repository is saved and Active the Environment.
