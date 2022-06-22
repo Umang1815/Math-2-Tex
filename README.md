@@ -2,6 +2,7 @@
 
 This project converts Handwritten Mathematical Equations into LaTeX.
 
+
 Steps to run this on your local computer:
 
 - Clone this repository
