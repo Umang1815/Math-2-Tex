@@ -568,7 +568,7 @@ def index():
     # Main page
     return render_template('index.html')
 
-
+# This function takes the image file location and returns the predicted LaTeX string as the output
 @app.route('/predict', methods=['GET', 'POST'])
 def upload():
     if request.method == 'POST':
