@@ -1,7 +1,14 @@
 # Math-2-Tex
 
-This project converts Handwritten Mathematical Equations into LaTeX.
+In today's scenario LaTex is used in almost all the field of study from writing a small lab report to publishing large research paper. LaTex is similar to code so many people sometimes find it tough to write in LaTex especially when it comes to writing a complex mathematical equation. Keeping this in mind we have developed a model that would create a LaTex code of any mathematical equation given it's handwritten image.
 
+#  Methodology
+
+- Preprocessed the images and their LaTeX labels, from corresponding inkml files
+- Trained an Encoder-Decoder model with EfficientNet-B6 as encoder and LSTM Cell with Attention as decoder. 
+- Achieved a Top-5 accuracy of 95% and Top-1 accuracy of 87% and deployed the model using Flask.
+
+# User Guide
 
 Steps to run this on your local computer:
 
@@ -26,3 +33,5 @@ pip install -r requirements.txt
 ```
 flask run
 ```
+# Website Screenshots
+
