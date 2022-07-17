@@ -35,3 +35,16 @@ flask run
 ```
 # Website Screenshots
 
+- Upload an image of handwritten mathematical expression
+
+![Upload](https://github.com/Umang1815/Math-2-Tex/blob/main/Upload.png)
+
+- Click on "Convert" to get the LaTex code
+
+![Convert](https://github.com/Umang1815/Math-2-Tex/blob/main/Convert.png)
+
+- Click on "Copy LaTex" to get the corresponding LaTex code
+
+![Output](https://github.com/Umang1815/Math-2-Tex/blob/main/Output2.png)
+
+ 
